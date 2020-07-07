@@ -1,10 +1,10 @@
-#LMBMinterface
+# LMBMinterface
 Renew Julia codes from https://github.com/pevnak/LMBM
 
-#Usage
+# Usage
 See file test_LMBM.ipynb
 
-#References
+# References
 N. Karmitsa, "LMBM — FORTRAN Subroutines for Large-Scale Nonsmooth Minimization: User's Manual", TUCS Technical Report, No. 856, Turku Centre for Computer Science, Turku, 2007. 
 
 N. Haarala, K. Miettinen, M. M. Mäkelä, "Globally Convergent Limited Memory Bundle Method for Large-Scale Nonsmooth Optimization" (author version), Mathematical Programming, Vol. 109, No. 1, 2007, 181-205. The original publication is available online at www.springerlink.com. 
