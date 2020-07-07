@@ -2,7 +2,7 @@
 Renew Julia codes from https://github.com/pevnak/LMBM
 
 # Usage
-See file test_LMBM.ipynb
+See file test/runtests.jl
 
 # References
 [1] N. Karmitsa, "LMBM — FORTRAN Subroutines for Large-Scale Nonsmooth Minimization: User's Manual", TUCS Technical Report, No. 856, Turku Centre for Computer Science, Turku, 2007. 
